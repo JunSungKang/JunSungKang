@@ -2,7 +2,7 @@ Hi, there 👋
 
 - 🌏 I’m from Korea Of Republic
 - 🔭 I’m currently working on Wisenut.
-- 🌱 I’m currently learning Angular, Go, Blockchain, Project-Architecture.
+- 🌱 I’m currently learning Angular, Go, Blockchain, Project-Architecture, Raspberry-Pi.
 - 📫 How to reach me: kjuns1@naver.com
 
 #### Languages
