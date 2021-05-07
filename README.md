@@ -6,6 +6,9 @@ Hi, there 👋
 - 🔭 I’m currently working on Wisenut.
 - 🌱 I’m currently learning Angular, Go, Blockchain, Project-Architecture, Raspberry-Pi.
 - 📫 How to reach me: kjuns1@naver.com
+- I portfolio site
+  1. jskang.dothome.co.kr (It is only in Korean.)
+  2. dev-box.tistory.com (It is only in Korean.)
 
 ## Languages
 **Front-End** <br/> <br/>
