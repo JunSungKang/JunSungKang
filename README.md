@@ -7,7 +7,6 @@ Hi, there 👋
 - 🌱 I’m currently learning Angular, Go, Blockchain, Project-Architecture, Raspberry-Pi.
 - 📫 How to reach me: kjuns1@naver.com
 - I portfolio site
-  1. <a href="http://jskang.dothome.co.kr">jskang.dothome.co.kr</a> (It is only in Korean.)
   2.  <a href="http://dev-box.tistory.com">dev-box.tistory.com</a> (It is only in Korean.)
 
 ## Languages
